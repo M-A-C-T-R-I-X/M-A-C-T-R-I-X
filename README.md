@@ -2,6 +2,10 @@
 
 <a href='https://github.com/MrIsuru' target="_blank"><img alt='qr repo' src='https://img.shields.io/badge/official github account-orange?style=for-the-badge&logo=openv&logoColor=white'/></a>
 
+<a href='https://github.com/CyberKillersTEAM' target="_blank"><img alt='qr repo' src='https://img.shields.io/badge/cyberkillersteam github account-green?style=for-the-badge&logo=openv&logoColor=white'/></a>
+
+<a href='https://github.com/M-A-C-T-R-I-X/MACTRIX-MD' target="_blank"><img alt='qr repo' src='https://img.shields.io/badge/mactrix md bot-black?style=for-the-badge&logo=openv&logoColor=white'/></a>
+
 <!--
 **M-A-C-T-R-I-X/M-A-C-T-R-I-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
